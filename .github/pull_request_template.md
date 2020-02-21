@@ -1,4 +1,9 @@
 # Impacte lié au pull request
 
 - [X] Impact sur le monitoring
-- [ ] Impact sur le monitoring2
+- [ ] Impacts Apache
+- [ ] Impacts microfront
+- [X] Impacts NFS
+- [X] Impacts en base
+- [ ] Impacts sur les autres applications
+
